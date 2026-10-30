@@ -1,29 +1,92 @@
-#  Hii👋 I'm Madhavi 💻
+# Hi, I'm Madhavi Ramani! 👋
 
-## 💫 About Me:
-I did a B.Tech in Compeuter Engineering and have almost 2 years of professional experience in Web Development. Enjoy taking on new challenges and learning opportunities. Alongside my professional interests, I’m passionate about art and creativity 🎨, which gives me a space to express ideas and explore new perspectives.<br><br>
+<h3 align="center">Full Stack Developer | Creative Thinker | Lifelong Learner</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Creative+Web+Experiences+%F0%9F%8E%A8;Turning+Ideas+Into+Reality+%E2%9C%A8;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20,24&height=2&section=header" width="100%" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn(https://linkedin.com/in/madhavi ramani)](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Pinterest(https://pinterest.com/madhavi ramani)](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhaviramani1996@gmail.com) 
+## 💫 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MadhaviRamani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MadhaviRamani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MadhaviRamani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a passionate **Full Stack Developer** with a B.Tech in Computer Engineering and nearly **2 years of professional experience in Web Development**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MadhaviRamani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+I enjoy building web applications, solving problems, and turning ideas into functional digital experiences. I'm always excited to take on new challenges and explore opportunities to learn and grow.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Beyond technology, I'm passionate about **art and creativity 🎨**, which allows me to express ideas, explore new perspectives, and bring creativity into everything I do.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MadhaviRamani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 💻 Full Stack Developer
+- 🎓 B.Tech in Computer Engineering
+- 💼 Nearly 2 years of professional web development experience
+- 🌱 Continuously learning and exploring new technologies
+- 🎨 Interested in art, creativity, and design
+- ✨ Always curious, creative, and open to new challenges
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MadhaviRamani&show_icons=true&theme=transparent&hide_border=true&title_color=8B7EB8&icon_color=8B7EB8" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MadhaviRamani&layout=compact&theme=transparent&hide_border=true&title_color=8B7EB8" height="170" />
+</p>
+
+## What I Love Doing
+
+- 🌐 Developing responsive and user-friendly web applications
+- ⚛️ Exploring modern frontend technologies
+- 🐍 Working with Python and JavaScript
+- 💡 Solving problems and learning new concepts
+- 🎨 Exploring art, creativity, and design
+- 🚀 Turning innovative ideas into reality
+
+## Let's Connect
+
+I'm always open to connecting with developers, sharing knowledge, collaborating on interesting projects, and exploring new opportunities.
+
+<p align="center">
+  <a href="https://github.com/MadhaviRamani">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-8B7EB8?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-C9A7EB?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MadhaviRamani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <i>"Creativity is intelligence having fun."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MadhaviRamani&label=Profile%20Views&color=8B7EB8&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  **Thanks for stopping by! Have a wonderful day. ✨**
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=90&section=footer" width="100%" />
+</p>
