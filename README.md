@@ -11,12 +11,6 @@
 
 ## 💫 About Me
 
-I'm a passionate **Full Stack Developer** with a B.Tech in Computer Engineering and nearly **2 years of professional experience in Web Development**.
-
-I enjoy building web applications, solving problems, and turning ideas into functional digital experiences. I'm always excited to take on new challenges and explore opportunities to learn and grow.
-
-Beyond technology, I'm passionate about **art and creativity 🎨**, which allows me to express ideas, explore new perspectives, and bring creativity into everything I do.
-
 - 💻 Full Stack Developer
 - 🎓 B.Tech in Computer Engineering
 - 💼 Nearly 2 years of professional web development experience
