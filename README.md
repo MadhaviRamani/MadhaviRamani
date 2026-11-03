@@ -42,15 +42,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MadhaviRamani&layout=compact&theme=transparent&hide_border=true&title_color=8B7EB8" height="170" />
 </p>
 
-## What I Love Doing
-
-- 🌐 Developing responsive and user-friendly web applications
-- ⚛️ Exploring modern frontend technologies
-- 🐍 Working with Python and JavaScript
-- 💡 Solving problems and learning new concepts
-- 🎨 Exploring art, creativity, and design
-- 🚀 Turning innovative ideas into reality
-
 ## Let's Connect
 
 I'm always open to connecting with developers, sharing knowledge, collaborating on interesting projects, and exploring new opportunities.
