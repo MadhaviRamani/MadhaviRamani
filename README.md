@@ -10,6 +10,9 @@
 </p>
 
 ## 💫 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20,24&height=2&section=header" width="100%" />
+</p>
 
 - 💻 Full Stack Developer
 - 🎓 B.Tech in Computer Engineering
